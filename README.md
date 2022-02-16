@@ -1,0 +1,2 @@
+# wordle
+ angular/js only
